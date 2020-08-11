@@ -1,9 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="www-cache.eu.nag.net" />
-    <option name="PROXY_PORT" value="3128" />
-    <option name="PROXY_AUTHENTICATION" value="true" />
-    <option name="KEEP_PROXY_PASSWORD" value="true" />
-    <option name="PROXY_EXCEPTIONS" value="172.*, 164.53.*, 10.*, *.eu.nag.net, *.thenational.com, *.int.*, *.session.rservices.com, *online.national.com.au, vgnqa.national.com.au, wwwd-nib.national.com.au, vgndev.national.com.au, webdev.national.com.au, vgnlive.national.com.au, testdirector.au.thenational.com, *mk.mlconline.co.uk, *.oracleoutsourcing.com, staging.mlc.com.au, integrity.eu.nag.net, help.nabgroupdirect.com, testegain.eu.nabgroup.com, 62.239.230.66, 62.239.230.130, *.aurdev.national.com.au, *nz.thenational.com, *portal.national.com.au, *teams.national.com.au, *global.thenational.com, *.ha.global.thenational.com, *.eu.nabgroup.com, *.nabcapital.com, *accessnab.com.au, *.gb.wapp.hunter.uk.experian.com, *.uat.wapp.hunter.uk.experian.com, *.esp.aur.national.com.au, naguklbpnps01.hipccprod.net, *.firstvision.firstdata.eu, *.nage.williamslea.com, firstvision.firstdata.eu, nagukdc1nps01.hipccprod.net, webarr.bas.aur.national.com.au, *.mppservices.vocalink.co.uk, bireports.bas.aur.national.com.au, intranet.nab.com.au, intranet.aus.thenational.com, *.cts.nab.com.au, *.ccmportal.williamslea.com, 4956.huntswood.com, NAGUKWHVNIM01.btnag.net, *.btnag.net, mpspinlookup, *.btopenzone.com, *.extranet.thomsonreuters.biz, *.cp.thomsonreuters.net, *.customers.reuters.com, *.trading.thomsonreuters.net, *.fitrading.reuters.com, *.fxtrading.reuters.com, *.rtextrading.reuters.com, *.fxall.com, 4956rem.huntswood.com, *.intellimatchmsuat.sungard.com, cioioca.intellimatchms.sungard.com, *.obps.io, falcon6.firstdataapps.com, falcon6-dr.firstdataapps.com, uat-falcon6.firstdataapps.com, 127.0.0.1, *.nip.io, *.xip.io, localhost" />
-  </component>
-</application>
